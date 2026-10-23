@@ -8,8 +8,18 @@ I like systems where correctness is checkable: rules enforced in the database, a
 
 ## What I work on
 
-- **At work:** architecture and delivery of a group's internal platform: a custom OpenID Connect single sign-on service with back-channel logout, a document and records system, a guest management system, offline-signed licensing and signed releases. More than 3,000 automated tests across the three systems. These repositories are private because they belong to my employer.
+- **At work:** architecture and delivery of a group's internal platform: a custom OpenID Connect single sign-on service with back-channel logout, a document and records system, a guest management system, offline-signed licensing and signed releases. More than 3,000 automated tests across the three systems. The source is private, so each has a public showcase with the write-up, screenshots and a live demo (below).
 - **In the open:** the repositories below.
+
+## Platform showcases (source private, access on request)
+
+| Showcase | What it is |
+| --- | --- |
+| [sso-showcase](https://github.com/DawitBK/sso-showcase) | Custom OpenID Connect identity provider with an admin console and app launcher. |
+| [dms-showcase](https://github.com/DawitBK/dms-showcase) | Multi-tenant document and records platform: approvals, e-signing, retention, correspondence. |
+| [gms-showcase](https://github.com/DawitBK/gms-showcase) | Visitor and access-management platform: approvals, escalation, door-access credentials. |
+
+Try them with the sandbox administrator login on the [portfolio](https://dawitbkportfolio.vercel.app/#demos).
 
 ## Open-source projects
 
